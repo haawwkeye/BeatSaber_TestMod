@@ -1,4 +1,4 @@
-name: Build
+name: BuildPC
 
 on:
     workflow_dispatch:
